@@ -1,4 +1,4 @@
-# 🧭 File Explorer (C++ for Linux)
+# 🧭 File Explorer Application (C++ for Linux)
 
 A **command-line File Explorer** built in **C++17** that lets you manage files and directories directly from the terminal.  
 This project demonstrates how to use the **`<filesystem>`** library and system-level operations like file creation, copying, deletion, navigation, and permission handling in a Linux environment.
